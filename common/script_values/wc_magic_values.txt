@@ -2368,6 +2368,17 @@ wc_death_magic_resistance_value = {
 		}
 	}
 
+	if = {
+		limit = {
+			has_character_modifier = wc_death_coil_negative_modifier
+		}
+		add = {
+			value = -2
+			desc = wc_vengeance_aura_modifier_negative
+			format = "WC_MAX_MANA_VALUE_FORMAT"
+		}
+	}
+
 	round = yes
 	max = 25
 	min = -5
