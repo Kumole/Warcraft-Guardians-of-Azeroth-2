@@ -265,75 +265,93 @@ undead_age_value = 18
 
 age_1_value = {
 	value = 1
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 1
 }
 age_2_value = {
 	value = 2
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 2
 }
 age_3_value = {
 	value = 3
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 3
 }
 age_4_value = {
 	value = 4
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 4
 }
 age_5_value = {
 	value = 5
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 5
 }
 age_6_value = {
 	value = 6
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 6
 }
 age_7_value = {
 	value = 7
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 7
 }
 age_8_value = {
 	value = 8
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 8
 }
 age_9_value = {
 	value = 9
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 9
 }
 age_10_value = {
 	value = 10
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 10
 }
 age_11_value = {
 	value = 11
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 11
 }
 age_12_value = {
 	value = 12
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 12
 }
 age_13_value = {
 	value = 13
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 13
 }
 age_14_value = {
 	value = 14
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 14
 }
 age_15_value = {
 	value = 15
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 15
 }
 age_16_value = {
 	value = 16
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 16
 }
 age_17_value = {
 	value = 17
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 17
 }
 age_18_value = {
 	value = 18
-	max = age_max_value
+	multiply = racial_age_multiplier_value
+	max = 18
 }
 age_20_value = {
 	value = 20
